@@ -1,0 +1,27 @@
+[
+	{
+		"name" : "gouvbj",
+		"url" : "http://www.gouv.bj/",
+		"description" : "Portail Officiel du Gouvernement"
+	},
+	{
+		"name" : "financesbj",
+		"url" : "http://www.finances.bj/",
+		"description" : "Ministère de l'Economie, des Finances et des Programmes de Dénationalisation"
+	},
+	{
+		"name" : "policebj",
+		"url" : "http://dgpn.bj/",
+		"description" : "Direction Generale de la Police Nationale"
+	},
+	{
+		"name" : "immigrationbj",
+		"url" : "http://www.dei-benin.com/",
+		"description" : "Direction de l'Emigration et de l'Immigration"
+	},
+	{
+		"name" : "transportbj",
+		"url" : "http://www.dgttbenin.com/",
+		"description" : "Direction Generale des Transports Terrestres"
+	}
+]
